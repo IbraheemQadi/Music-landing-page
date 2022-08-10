@@ -1,0 +1,52 @@
+body {
+  direction: ltr;
+  line-height: 1.25;
+}
+
+.list__item {
+  margin-right: 10rem;
+  margin-left: 0;
+}
+
+.block-img {
+  background-image: url(../img/background-en.webp);
+  padding-right: 5rem;
+  padding-left: 10rem;
+}
+
+.nav .list {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.footer a {
+  margin-right: 0;
+  margin-left: 1rem;
+}
+
+h1 {
+  font-family: anton, sans-serif;
+  letter-spacing: 0.3rem;
+}
+.ar {
+  color: white;
+}
+
+.en {
+  color: #4057eb;
+}
+
+.input {
+  margin-left: 2rem;
+  margin-right: 0;
+}
+
+.input-group__icon {
+  margin-left: 0;
+  margin-right: 2rem;
+}
+
+.hero__body .btn {
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: var(--secndorycolor);
+}
