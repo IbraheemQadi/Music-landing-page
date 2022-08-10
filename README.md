@@ -1,3 +1,7 @@
 #This repo. for a Music hero section website.
 
-- it's just a try to make a page with two languages (ar|en). 🙂
+- It's just a try to make a page with two languages (ar|en). 🙂
+
+- [Desgin link](https://www.freepik.com/free-psd/enjoy-music-landing-page_13762476.htm#query=landing%20page&position=3&from_view=search)
+
+- [Demo]()
